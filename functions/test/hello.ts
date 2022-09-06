@@ -1,4 +1,4 @@
-export async function onReque   stPost(request) {
+export async function onRequestPost(request) {
     // ...
     return new Response(`Hello world`);
   }
